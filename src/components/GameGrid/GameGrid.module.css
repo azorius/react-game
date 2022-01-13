@@ -2,4 +2,11 @@
   display: inline-grid;
   grid-template-columns: repeat(10, 1fr);
   grid-template-rows: repeat(10, 1fr);
+  width: 500px;
+  height: 500px;
+}
+
+.tile {
+  background-color: fuchsia;
+  margin: 1px;
 }
